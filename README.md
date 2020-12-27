@@ -37,7 +37,7 @@ const skills =
 }
 
 
-Developer dev = new Developer(chiraag-kakar);
+Developer dev = new Developer(Mayur-Hajare);
 
 while(dev.isCoding() && dev.isStuck())  
 {
