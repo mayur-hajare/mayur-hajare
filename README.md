@@ -9,6 +9,9 @@
 <a href="https://www.facebook.com/mayur.hajare.102">
   <img align="right" alt="Mayur hajare - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
 </a>
+<a href="https://www.linkedin.com/in/mayur-hajare-6583611b3/">
+  <img align="right" alt="Mayur hajare - Linkdin" width="22px" src="https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.meonlinemarketing.com%2Fwp-content%2Fuploads%2F2020%2F06%2Fin.png&imgrefurl=http%3A%2F%2Fwww.meonlinemarketing.com%2Fproduct%2F250-linkedin-company-followers%2F&tbnid=pFSmePUbxccz8M&vet=12ahUKEwjA2737wvDtAhUVQn0KHS3oAH8QMygTegUIARDMAQ..i&docid=d6p2QyIw9ZLXSM&w=800&h=707&q=online%20linkedin%20logo&ved=2ahUKEwjA2737wvDtAhUVQn0KHS3oAH8QMygTegUIARDMAQ"/>
+</a>
 <br/>
 <br/>
 <h2 align="center">Hi 👋, I'm Mayur Hajare</h1>
