@@ -5,6 +5,10 @@
    <img src="https://github-readme-stats.vercel.app/api?username=mayur-hajare&show_icons=true&border=true&count_private=true" alt="Mayur's Github stats" align="center">
 </p>
 <br>
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mayur-hajare&v=2" alt="mayur's wakatime stats" align="center">
+</p>
+<br>
 </p>
 <h3 align="right">Connect with me :</h3>
 <a href="https://instagram.com/mayur_hajare28">
