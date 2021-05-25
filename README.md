@@ -1,6 +1,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayur-hajare" alt="mayur-hajare" /> </p>
 <p align="center">
 <br><img src="https://github.com/mayur-hajare/mayur-hajare/blob/main/developer-dribbble.gif" width="350px"><br><br>
+  <p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=mayur-hajare&show_icons=true&border=true&count_private=true" alt="Mayur's Github stats" align="center">
+</p>
+<br>
 </p>
 <h3 align="right">Connect with me :</h3>
 <a href="https://instagram.com/mayur_hajare28">
