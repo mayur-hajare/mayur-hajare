@@ -10,7 +10,7 @@
 <a href="https://instagram.com/mayur_hajare28">
   <img align="right" alt="Mayur Hajare - Instagram" width="100px" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-<a href="https://www.facebook.com/mayur.hajare.102">
+<a href="https://www.linkedin.com/in/mayur-hajare-6583611b3/">
   <img align="right" alt="Mayur hajare - Facebook" width="100px" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/mayur-hajare-6583611b3/">
