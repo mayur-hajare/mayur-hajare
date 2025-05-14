@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayur-hajare" alt="mayur-hajare" /> </p>
 
   <p>
-  <h3 align="center">𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛 | 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 | 𝙳𝚊𝚝𝚊 𝙰𝚗𝚊𝚕𝚢𝚜𝚒𝚜 𝙴𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝
+  <h3 align="center"> Full-Time IT Professional | ServiceNow Developer | 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 
 </h3></p>
   <p align="center">
 <br><img src="https://github.com/mayur-hajare/mayur-hajare/blob/89df1e85aaf14ad8840da3b4d27ce48deab46581/yoga_dev.gif" width="350px"><br><br>
@@ -23,9 +23,6 @@
 
 ```js
 
-               markdown
-Copy
-Edit
 # 👨‍💻 Mayur Hajare
 
 ### ServiceNow Developer | CAD | CSA | CIS-CSM | FSO Certified  
@@ -35,9 +32,7 @@ Edit
 
 ## 🚀 About Me
 
-Skilled in delivering scalable, user-centric IT solutions on the **ServiceNow platform**, with deep expertise in **ITSM**, **CSM**, and **FSM** implementations.
-
-At **Genpact**, I’ve contributed to global workflow automation and integration using:
+Skilled in delivering scalable, user-centric IT solutions on the ServiceNow platform, with deep expertise in ITSM, CSM, and FSM implementations.
 
 - 🔧 MID Server
 - 🔐 SFTP
@@ -46,7 +41,7 @@ At **Genpact**, I’ve contributed to global workflow automation and integration
 - ⚙️ IntegrationHub
 - 🧠 Business Rules
 
-Beyond ServiceNow, I'm exploring **Unqork**, **Android development**, and emerging tech like **AR/VR**—always pushing boundaries and bridging innovation with practical outcomes.
+Beyond ServiceNow, I'm exploring Unqork, Android development, and emerging tech like AR/VR—always pushing boundaries and bridging innovation with practical outcomes.
 
 ---
 
