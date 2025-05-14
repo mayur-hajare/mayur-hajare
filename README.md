@@ -23,53 +23,50 @@
 
 ```js
 
-                 ᴛʜɪꜱ ɪꜱ ᴍᴇ, ᴍᴀʏᴜʀ ʜᴀᴊᴀʀᴇ, ᴀ ꜱᴇᴄᴏɴᴅ ʏᴇᴀʀ ᴇɴɢɢᴇʀɪɴɢ ꜱᴛᴜᴅᴇɴᴛ, ᴘᴜʀꜱᴜɪɴɢ ꜰʀᴏᴍ ꜱᴠᴋᴍ'ꜱ ɪɴꜱᴛɪᴛᴜᴛᴇ ᴏꜰ ᴛᴇᴄʜɴᴏʟᴏɢʏ,ᴅʜᴜʟᴇ 👨‍🎓.
-                                  ᴀ ʙᴜᴅᴅɪɴɢ ꜰᴜʟʟ-ꜱᴛᴀᴄᴋ ꜱᴏꜰᴛᴡᴀʀᴇ ᴅᴇᴠᴇʟᴏᴘᴇʀ  ᴀɴᴅ ᴀ ᴄᴏᴍᴘᴇᴛɪᴛɪᴠᴇ ᴘʀᴏɢʀᴀᴍᴍɪɴɢ ᴇɴᴛʜᴜꜱɪᴀꜱᴛ,
-                               ᴡʜᴏ ɪꜱ ᴏʙꜱᴇꜱꜱᴇᴅ ᴡɪᴛʜ ᴛʜᴇ ɪᴅᴇᴀ ᴏꜰ ɪᴍᴘʀᴏᴠɪɴɢ ʜɪᴍꜱᴇʟꜰ ᴀɴᴅ ᴡᴀɴᴛꜱ ᴀ ᴘʟᴀᴛꜰᴏʀᴍ ᴛᴏ ɢʀᴏᴡ ᴀɴᴅ ᴇxᴄᴇʟ.
-                                                        ʟᴇᴀʀɴɪɴɢ ᴡʜɪʟᴇ ʜᴏᴘɪɴɢ & ʜᴜꜱᴛʟɪɴɢ!!!
-                                          
-                                          
-                           
-✔ ᴘʀᴏɴᴏᴜɴs: ʜᴇ/ʜɪs ᴏʀ ᴛᴇᴀᴍᴍᴀᴋᴇʀ😉 
-✔ ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ ᴀɴᴅʀᴏɪᴅ ᴘʀᴏᴊᴇᴄᴛs 
-✔ ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴀʙᴏᴜᴛ ᴀɴᴅʀᴏɪᴅ, ᴅᴀᴛᴀ sᴛʀᴜᴄᴛᴜʀᴇ, ɴᴇᴛᴡᴏʀᴋɪɴɢ 
-✔ ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴡɪᴛʜ ᴀɴʏ ᴏᴘᴇɴ - sᴏᴜʀᴄᴇ ᴄᴏɴᴛʀɪʙᴜᴛɪᴏɴ
-✔ ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ғᴏʀ ʜᴇʟᴘ ғᴏʀ ʟᴇᴀʀɴɪɴɢ ɴᴇᴛᴡᴏʀᴋɪɴɢ 
-✔ ᴀsᴋ ᴍᴇ ᴀʙᴏᴜᴛ ᴀɴʏᴛʜɪɴɢ, ɪ ᴀᴍ ʜᴀᴘᴘʏ ᴛᴏ ʜᴇʟᴘ, ᴏɴʟʏ ɪғ ᴛʜᴇ ʙᴀʟʟ ɪs ɪɴ ᴍʏ ᴄᴏᴜʀᴛ!😉 
-✔ ғᴜɴ ғᴀᴄᴛ : ᴀᴛ ᴛʜᴇ ᴛɪᴍᴇ ᴏғ sᴛʀᴇss ᴄᴏᴅɪɴɢ, ɪ ᴜsᴇ ᴛᴏ ʙᴇ ɪɴ ʜᴀʟғ sʟᴇᴇᴘɪɴɢ ᴍᴏᴅᴇ
+               markdown
+Copy
+Edit
+# 👨‍💻 Mayur Hajare
 
+### ServiceNow Developer | CAD | CSA | CIS-CSM | FSO Certified  
+🚀 Full-Time IT Professional | Full-Stack Developer | Competitive Programmer | Tech Explorer
 
-about.read("Mayur-Hajare");
+---
 
-𝚟𝚊𝚛 𝚜𝚝𝚊𝚝𝚞𝚜 = 
-{ 
-  𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 : [𝙰𝚗𝚍𝚛𝚘𝚒𝚍, 𝙿𝚢𝚝𝚑𝚘𝚗, 𝚆𝚎𝚋],
-  𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝𝚜: [𝚁𝚎𝚜𝚎𝚊𝚛𝚌𝚑, 𝙾𝚙𝚎𝚗 𝚂𝚘𝚞𝚛𝚌𝚎 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗]
-}
+## 🚀 About Me
 
-𝚌𝚘𝚗𝚜𝚝 𝚜𝚔𝚒𝚕𝚕𝚜 = 
-{
-  𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 :[𝙲, 𝙲𝚙𝚙, 𝙿𝚢𝚝𝚑𝚘𝚗, 𝙹𝚊𝚟𝚊, 𝙷𝚝𝚖𝚕, 𝙲𝚜𝚜],
-  
-  𝚒𝚍𝚎       :[𝚅𝚜 𝙲𝚘𝚍𝚎, 𝙰𝚗𝚍𝚛𝚘𝚒𝚍 𝚂𝚝𝚞𝚍𝚒𝚘, 𝙴𝚌𝚕𝚒𝚙𝚜𝚎],
-      
-  𝚍𝚊𝚝𝚊𝚋𝚊𝚜𝚎𝚜 :[𝚂𝚚𝚕𝚒𝚝𝚎𝟹, 𝙼𝚢𝚂𝚚𝚕, 𝙵𝚒𝚛𝚎𝚋𝚊𝚜𝚎],
-  
-  𝚙𝚕𝚊𝚝𝚏𝚘𝚛𝚖𝚜 :[𝙶𝚘𝚘𝚐𝚕𝚎 𝙲𝚕𝚘𝚞𝚍 𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖, 𝙵𝚒𝚛𝚎𝚋𝚊𝚜𝚎],
-  
-}
+Skilled in delivering scalable, user-centric IT solutions on the **ServiceNow platform**, with deep expertise in **ITSM**, **CSM**, and **FSM** implementations.
 
+At **Genpact**, I’ve contributed to global workflow automation and integration using:
 
-𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚍𝚎𝚟 = 𝚗𝚎𝚠 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛(𝙼𝚊𝚢𝚞𝚛-𝙷𝚊𝚓𝚊𝚛𝚎);
+- 🔧 MID Server
+- 🔐 SFTP
+- 🔗 REST/SOAP APIs
+- 🔄 Flow Designer
+- ⚙️ IntegrationHub
+- 🧠 Business Rules
 
-𝚠𝚑𝚒𝚕𝚎(𝚍𝚎𝚟.𝚒𝚜𝙲𝚘𝚍𝚒𝚗𝚐() && 𝚍𝚎𝚟.𝚒𝚜𝚂𝚝𝚞𝚌𝚔())  
-{
-  𝚍𝚎𝚟.𝚘𝚙𝚎𝚗𝙱𝚛𝚘𝚠𝚜𝚎𝚛();
-  𝚍𝚎𝚟.𝚘𝚙𝚎𝚗𝚂𝚝𝚊𝚌𝚔𝙾𝚟𝚎𝚛𝙵𝚕𝚘𝚠();
-  𝚍𝚎𝚟.𝚙𝚊𝚜𝚝𝚎𝙲𝚘𝚍𝚎𝙸𝚗𝙸𝚍𝚎();
-  𝚍𝚎𝚟.𝚏𝚎𝚎𝚕𝙿𝚛𝚘𝚏𝚎𝚜𝚜𝚒𝚘𝚗𝚊𝚕();
-}
+Beyond ServiceNow, I'm exploring **Unqork**, **Android development**, and emerging tech like **AR/VR**—always pushing boundaries and bridging innovation with practical outcomes.
 
+---
+
+## 🔥 Fun Side of Me
+
+ᴛʜɪꜱ ɪꜱ ᴍᴇ, **ᴍᴀʏᴜʀ ʜᴀᴊᴀʀᴇ**,  
+ᴀ ʙᴜᴅᴅɪɴɢ ꜰᴜʟʟ-ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ  
+ᴡʜᴏ ɪꜱ ᴏʙꜱᴇꜱꜱᴇᴅ ᴡɪᴛʜ ɪᴍᴘʀᴏᴠɪɴɢ ʜɪᴍꜱᴇʟꜰ & ᴄᴏɴᴛɪɴᴜᴏᴜꜱ ɢʀᴏᴡᴛʜ.  
+**ʟᴇᴀʀɴɪɴɢ ᴡʜɪʟᴇ ʜᴏᴘɪɴɢ & ʜᴜꜱᴛʟɪɴɢ!!!**
+
+---
+
+## 👇 Quick Bits About Me
+
+- ✔ Pronouns: `he/his` or `teammaker 😉`
+- ✔ Currently working on Android projects
+- ✔ Learning: `Android`, `Data Structures`, `Networking`
+- ✔ Looking to collaborate on open-source
+- ✔ Ask me anything — if it’s in my court, I’ll help 😉
+- ✔ Fun Fact: I debug best when I’m half-asleep 😅
 ```
 </center>
   <p align="center">
